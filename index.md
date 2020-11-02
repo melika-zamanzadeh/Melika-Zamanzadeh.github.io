@@ -1,13 +1,13 @@
 
-### Mahsa Heydari
-<a href="https://uupload.ir/view/jn9p_img_20191107_165805_552.jpg" target="_blank"><img src="https://uupload.ir/files/jn9p_img_20191107_165805_552_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+### Melika Zamanzadeh
+<a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/psld_showstdpic.gif" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
 ---
-+ name: Mahsa
-+ last name : Heydari
-+ Date of birth : 1997/may/8
++ name: Melika
++ last name :zamanzadeh
++ Date of birth : 1997/sep/8
 +  Computer engineering student
 + location : Tehran , I.R.Iran
 
@@ -15,36 +15,34 @@
 ### Skill Highlights
 
 ---
-+ Network+
-+ HTML
-+ c/c++
-+ VHDL
-+ SQL
-+ ICDL
++ accountant
++ store software
++ web design
++ programming
 
 ### Education
 
 ---
-+ Diploma : Hejrat High school
++ Diploma : hananeh school
 _ 2015
 + Bachelor of science : computer Engineering
-_ 2016,payam Noor University of North Tehran 
+_ 2016,payam Noor University of parand 
 
 ### Favorites
 
 ---
 + Web design
-+ programming
-+ Yoga
-+ Meditation 
++ computer games
++ book reading 
 + travel 
 
 ### working Experience
 
 ---
-+ I was a dental assistant.
++ store IT expert
++ car dealership accounting
 
-### [contact with me](Mahsaheydariii1997@gmail.com)
+### [contact with me](melikaa.zamanzade@gmail.com)
 
 
 --- 
