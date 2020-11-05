@@ -19,6 +19,7 @@
 + store software
 + web design
 + programming
++ java script
 
 ### Education
 
